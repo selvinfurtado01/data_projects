@@ -1,0 +1,21 @@
+CustomerID,Name,Email,SignupDate,LastLogin,PurchaseAmount,Country,Comments
+CUST1001, Alice ,user1@example.com,2022-01-01,2023-01-01,193.52,USA,Great service
+CUST1002,Bob,user2@example.com,2022-01-16,2023-01-21,475.85,Canada,  Needs improvement 
+CUST1003,Carol,,2022-01-31,2023-02-10,368.68,Canada,
+CUST1004,Dave,user4@example.com,2022-02-15,2023-03-02,,USA,Excellent
+CUST1005,Eve,user5@example.com,2022-03-02,2023-03-22,303.34,Canada,Average
+CUST1002,Bob,user2@example.com,2022-01-16,2023-01-21,475.85,Canada,  Needs improvement 
+CUST1007,Grace,user7@example.com,2022-04-01,2023-05-01,86.44,Mexico,
+CUST1008,Heidi,user8@example.com,2022-04-16,2023-05-21,,Canada,Great
+CUST1009,Ivan,,2022-05-01,2023-06-10,38.46,USA,Average
+CUST1010,Judy,user10@example.com,2022-05-16,2023-06-30,434.43,USA,Good
+CUST1011,Mallory,user11@example.com,2022-05-31,2023-07-20,304.55,Canada,  Excellent  
+CUST1012,Niaj,,2022-06-15,2023-08-09,,Mexico,
+CUST1013,Olivia,user13@example.com,2022-06-30,2023-08-29,356.96,Canada,Average
+CUST1014,Peggy,user14@example.com,2022-07-15,2023-09-18,20.09,USA,Good
+CUST1015,Rupert,,2022-07-30,2023-10-08,485.26,Canada,Needs improvement
+CUST1016,Sybil,user16@example.com,2022-08-14,2023-10-28,N/A,Mexico,Great
+CUST1017,Trudy,user17@example.com,2022-08-29,2023-11-17,417.9,USA,Excellent
+CUST1018,Victor,,2022-09-13,2023-12-07,114.05,Canada,Average
+CUST1019,Wendy,user19@example.com,,2023-12-27,99.09,Mexico,
+CUST1020,Xavier,user20@example.com,2022-10-13,2024-01-16,,USA,Good
